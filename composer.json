@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Ma2_Manufacturers_Free",
+    "name": "OpenMageModuleFostering\/Ma2_Manufacturers_Free",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
-    "description": "Ma2 Manufacturers free module for Magento CE helps you introduce to customers your featured or  manufacturers / brands",
+    "description": "Ma2 Manufacturers free module for Magento CE helps you introduce to customers your featured or  manufacturers \/ brands",
     "authors": [
-    {
-        "name": "Magenmarket.com",
-        "email": "trungdt@omegatheme.com"
-    }
-],
+        {
+            "name": "Magenmarket.com",
+            "email": "trungdt@omegatheme.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
