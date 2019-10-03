@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Ma2 Manufacturers free module for Magento CE helps you introduce to customers your featured or  manufacturers / brands
